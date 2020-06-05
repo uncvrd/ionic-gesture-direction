@@ -1,0 +1,7 @@
+{
+  "name": "ionic-gesture-direction",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
